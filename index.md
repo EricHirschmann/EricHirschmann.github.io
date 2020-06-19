@@ -13,4 +13,6 @@ Dies geschieht in den Folgen Mysterion schlägt zurück und Coon vs. Coon & Frie
 Jedes Mal, wenn er stirbt, wacht er am nächsten Morgen in seinem Bett auf und niemand kann sich daran erinnern, dass er gestorben ist. 
 
 Ref: https://southpark.fandom.com/de/wiki/Kenny_McCormick
+
+
 Fixes: #3
