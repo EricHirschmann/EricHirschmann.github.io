@@ -16,20 +16,20 @@ Ref: https://southpark.fandom.com/de/wiki/Kenny_McCormick
 
 ## Todesursachen
 
-*Gift
+* Gift
 
-*Feuer
+* Feuer
 
-*Verkehr
+* Verkehr
 
-*I.T.
+* I.T.
 
-*Hunger
+* Hunger
 
-*GitHub
+* GitHub
 
-*Cartman
+* Cartman
 
-*Gott
+* Gott
 
-*Disney
+* Disney
