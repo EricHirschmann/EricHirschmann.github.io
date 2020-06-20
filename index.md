@@ -61,6 +61,6 @@ Karen McCormick
 
 ## Gutes Bild
 
-<img src="https://wiki.southpark.de/wiki/Kenny_McCormick"/>
+<img src="https://images.app.goo.gl/wbhpzyzjdzqezuHA9"/>
 
 
