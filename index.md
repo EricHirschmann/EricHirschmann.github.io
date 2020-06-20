@@ -50,3 +50,6 @@ Karen McCormick
 > Aber ich bin jetzt ganz alleine.
 Kenny McCormick aka Mysterion
 > Nein bis tud nicht. Egal wo du bist und egal was du tust. Ich werde immer da sein! Hast du verstanden?
+Karen McCormick
+> Ich werde es versuchen
+
