@@ -14,22 +14,3 @@ Jedes Mal, wenn er stirbt, wacht er am nächsten Morgen in seinem Bett auf und n
 
 Ref: https://southpark.fandom.com/de/wiki/Kenny_McCormick
 
-## Todesursachen
-
-* Gift
-
-* Feuer
-
-* Verkehr
-
-* I.T.
-
-* Hunger
-
-* GitHub
-
-* Cartman
-
-* Gott
-
-* Disney
