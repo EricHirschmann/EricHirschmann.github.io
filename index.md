@@ -12,8 +12,16 @@ Später in der Serie erfährt man, dass dieser Running Gag auf seine Superkraft 
 Dies geschieht in den Folgen Mysterion schlägt zurück und Coon vs. Coon & Friends.
 Jedes Mal, wenn er stirbt, wacht er am nächsten Morgen in seinem Bett auf und niemand kann sich daran erinnern, dass er gestorben ist. 
 
+
+
+##Armuts-Paradoxon
+* Trotz der Armut seiner Familie gelingt es Kenny immer wieder die gleichen Spielzeuge und Videospiele wie die wohlhabenden Kinder von South Park zu kaufen
+* z. B. ein World of Warcraft Abonnement und einen Computer um es zu spielen
+* Kenny ist das erste Kind in South Park, das sich eine PSP gekauft hat
+* Er konnte sich auch Chinpokomon-Puppen kaufen
+* Zudem besitzt er ein Smartphone
+
+
+
+
 Ref: https://southpark.fandom.com/de/wiki/Kenny_McCormick
-
-
-Fixes: #3
-
