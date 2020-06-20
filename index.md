@@ -40,6 +40,7 @@ Southpark Season 15 Folge 14: "Immer Ärger mit Proll-Trash"
 
 Karen McCormick
 > Oh, du bist es. Ich habe mich schon gefragt wann du auftauchst. Du kommst immer wenn ich traurig bin.
+
 Kenny McCormick aka Mysterion
 > Es wird alles gut Karen, du darfst nie daran zweifeln
 Karen McCormick
